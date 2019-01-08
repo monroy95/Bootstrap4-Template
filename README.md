@@ -1,4 +1,4 @@
-# Template Bootstrap 4.1.3
+# Template Bootstrap v4.2.1
 Inicia tu proyecto con este template ligero, solo viene con los archivos necesarios, así como una hoja de estilos y una archivo javascript para tu código.
 
 ## Instrucciones
